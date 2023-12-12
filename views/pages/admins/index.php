@@ -78,4 +78,4 @@ if (isset($_GET["start"]) && isset($_GET["end"])) {
 
     </div>
 </section>
-<script src="views/assets/custom/datatable/datatable.js"></script>
+<script src="../../assets/custom/datatable/datatable.js"></script>

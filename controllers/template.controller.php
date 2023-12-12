@@ -22,7 +22,7 @@ class TemplateController
             '/users_new' => 'views/pages/users/actions/new.php',
             '/users_edit' => 'views/pages/users/actions/edit.php',
 
-            '/admins' => './views/pages/admins/index.php',
+            '/admins' => 'views/pages/admins/index.php',
             '/admins_new' => 'views/pages/admins/actions/new.php',
             '/admins_edit' => 'views/pages/admins/actions/edit.php',
 
