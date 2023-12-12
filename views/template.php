@@ -16,40 +16,40 @@ $routesArray = explode("?", $_SERVER['REQUEST_URI'])[0];
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="./assets/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="views/assets/plugins/fontawesome-free/css/all.min.css">
   <!-- overlayScrollbars -->
-  <link rel="stylesheet" href="./assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+  <link rel="stylesheet" href="views/assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Select2 -->
-  <link rel="stylesheet" href="./assets/plugins/select2/css/select2.min.css">
-  <link rel="stylesheet" href="./assets/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
+  <link rel="stylesheet" href="views/assets/plugins/select2/css/select2.min.css">
+  <link rel="stylesheet" href="views/assets/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
   <!-- Material Preloader -->
-  <link rel="stylesheet" href="./assets/plugins/material-preloader/material-preloader.css">
+  <link rel="stylesheet" href="views/assets/plugins/material-preloader/material-preloader.css">
   <!-- Notie Alert -->
-  <link rel="stylesheet" href="./assets/plugins/notie/notie.css">
+  <link rel="stylesheet" href="views/assets/plugins/notie/notie.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="./assets/plugins/adminlte/css/adminlte.min.css">
+  <link rel="stylesheet" href="views/assets/plugins/adminlte/css/adminlte.min.css">
   <!-- Template CSS -->
-  <link rel="stylesheet" type="text/css" href="./assets/custom/template/template.css?v=1">
+  <link rel="stylesheet" type="text/css" href="views/assets/custom/template/template.css?v=1">
 
   <!-- jQuery -->
-  <script src="./assets/plugins/jquery/jquery.min.js"></script>
+  <script src="views/assets/plugins/jquery/jquery.min.js"></script>
   <!-- Bootstrap 4 -->
-  <script src="./assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="views/assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
   <!-- overlayScrollbars -->
-  <script src="./assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+  <script src="views/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
   <!-- AdminLTE App -->
-  <script src="./assets/plugins/adminlte/js/adminlte.min.js"></script>
+  <script src="views/assets/plugins/adminlte/js/adminlte.min.js"></script>
   <!-- Bootstrap Switch -->
-  <script src="./assets/plugins/bootstrap-switch/js/bootstrap-switch.min.js"></script>
+  <script src="views/assets/plugins/bootstrap-switch/js/bootstrap-switch.min.js"></script>
   <!-- Select2 -->
-  <script src="./assets/plugins/select2/js/select2.full.min.js"></script>
+  <script src="views/assets/plugins/select2/js/select2.full.min.js"></script>
   <!-- Material Preloader -->
   <!-- https://www.jqueryscript.net/loading/Google-Inbox-Style-Linear-Preloader-Plugin-with-jQuery-CSS3.html -->
-  <script src="./assets/plugins/material-preloader/material-preloader.js"></script>
+  <script src="views/assets/plugins/material-preloader/material-preloader.js"></script>
   <!-- Notie Alert -->
   <!-- https://jaredreich.com/notie/ -->
   <!-- https://github.com/jaredreich/notie -->
-  <script src="./assets/plugins/notie/notie.min.js"></script>
+  <script src="views/assets/plugins/notie/notie.min.js"></script>
   <!-- Sweet Alert -->
   <!-- https://sweetalert2.github.io/ -->
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
