@@ -78,4 +78,5 @@ if (isset($_GET["start"]) && isset($_GET["end"])) {
 
     </div>
 </section>
-<script src="../../assets/custom/datatable/datatable.js"></script>
+
+<?php echo "<script src='views/assets/custom/datatable/datatable.js'></script>\n"; ?>

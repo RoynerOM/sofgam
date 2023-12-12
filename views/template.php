@@ -105,7 +105,7 @@ $routesArray = explode("?", $_SERVER['REQUEST_URI'])[0];
   <?php endif ?>
  
   <script src="views/assets/custom/alertas/alertas.js"></script>
-
+<script src="views/assets/custom/formularios/formularios.js"></script>
 </head>
 
 <body class="hold-transition sidebar-mini layout-fixed">
@@ -140,8 +140,6 @@ $routesArray = explode("?", $_SERVER['REQUEST_URI'])[0];
     </div>
     <!-- ./wrapper -->
   <?php endif ?>
-
-  <script src="views/assets/custom/formularios/formularios.js"></script>
 </body>
 
 </html>
